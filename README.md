@@ -1,5 +1,7 @@
 # GCR Cycle
 
+Version DOI: https://doi.org/10.5281/zenodo.21752979
+
 GCR Cycle is a method for converging generative AI outputs by repeatedly applying Generate, Compare, and Refine.
 
 - Generate: Generate multiple outputs under the same conditions.
